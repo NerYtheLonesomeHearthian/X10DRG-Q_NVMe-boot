@@ -11,6 +11,8 @@ I downloaded UEFITool version 0.25.1 (the same one used in the guide, [the lates
 
 I used the Supermicro IPMI BIOS update feature to update the BIOS with my modded one on the board. This requires a license that can be generated with a website (https://cryptii.com/pipes/QiZmdA) I found in [manfromafar](https://github.com/manfromafar)'s [supermicro-ipmi-keygen](https://github.com/manfromafar/supermicro-ipmi-keygen) repository. It is important that you take the License Key this site gives you and capitalize all the letters, or it won't work (ask me how i know...). The site https://docs.telehouse.solutions/supermicro_ipmi_licenses.html also works perfectly.
 
+The NvmExpressDxe_4.ffs module was not used in this project, as I downloaded it before finding the NvmExpressDxe_5.ffs one, but I will include it in the files anyway just in case somebody needs it.
+
 After getting all the necessary tools, I followed the guide.
 
 I will upload all the files I used, as well as the modded BIOS, in this repository.
