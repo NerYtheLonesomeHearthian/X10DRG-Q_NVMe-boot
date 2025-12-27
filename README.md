@@ -17,4 +17,4 @@ After getting all the necessary tools, I followed the guide.
 
 I will upload all the files I used, as well as the modded BIOS, in this repository.
 
-With this, I was able to boot Proxmox from an Intel p4610 U.2 NVMe 1.6TB drive.
+With this, I was able to boot Proxmox from two Intel p4610 U.2 NVMe 1.6TB drives in RAID1.
